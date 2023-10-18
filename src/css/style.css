@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+ul, li{
+    list-style: none;
+    gap: 2em;
+}
+
+#cardContainer{ 
+    gap: 2em;
+}
